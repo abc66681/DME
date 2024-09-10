@@ -1,2 +1,2 @@
 ## Paper ##
-    Co-Training with Dual Mask Integration in Semi-Supervised Skin Lesion Segmentation
+    A Robust Co-Training Scheme with Feature Discrepancy and Dual Mask Ensemble in Semi-Supervised Skin Lesion Segmentation
